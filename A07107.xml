@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des diverses liures francoises recueillées dans la France / par Robert Martine, Libraire de Londres ; aupres du quel ils se vendent, a l'enseigne de Venize, en la rue nommé Old-Bayly.</title>
+            <author>Martin, Robert, fl. 1635-1641.</author>
+         </titleStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07107</idno><idno type="EEBO-CITATION">24726791</idno>
+  <idno type="VID">27863</idno>
+  <idno type="EEBO-PROQUEST">2240924173</idno>
+  <idno type="STC">STC 17511.5</idno>
+  <idno type="STC">ESTC S2809</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A07107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1856:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Catalogue des diverses liures francoises recueillées dans la France / par Robert Martine, Libraire de Londres ; aupres du quel ils se vendent, a l'enseigne de Venize, en la rue nommé Old-Bayly.</title>
+                  <author>Martin, Robert, fl. 1635-1641.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Chez Thomas Harper,</publisher>
+                  <pubPlace>Imprime a Londres :</pubPlace>
+                  <date>MDCXL [1640]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]¹ B-D⁴ E¹.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Bibliography --  France --  Early printed books --  17th century.</term>
+               <term type="topical_term">Catalogs, Booksellers' --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27863:1"/>
+            <pb facs="tcp:27863:1"/>
+            <p>CATALOGUE Des Diverses Liures FRANCOISES: Recueillées dans la France, Par ROBERT MARTINE, Libraire de LONDRES.</p>
+            <p>Aupres du quel ils se vendent, A l'Enseigne de <hi>VENIZE,</hi> en la Rue nommé <hi>OLD-BAYLY.</hi>
+            </p>
+            <p>Imprime A LONDRES, chez THOMAS HARPER. MDCXL.</p>
+         </div>
+      </front>
+      <body>
+         <div type="book-importers_catalogue">
+            <pb facs="tcp:27863:2"/>
+            <pb facs="tcp:27863:2"/>
+            <list>
+               <item>ACtions notables &amp; Plaidoyez de Messire Louis Servin folio.</item>
+               <item>Aelius Sejanus histoire Romain 12.</item>
+               <item>Alphabet de l'Imperfection &amp; malice des femmes 12.</item>
+               <item>Auvray le Banquet des Muses 8.</item>
+               <item>— les Ouvres sainctes.</item>
+               <item>Amirat Sermon sur l'Epistre aux Ephesiens 12.</item>
+               <item>Arrests de la Cour Decisifs de diverses Questiones 4.</item>
+               <item>— Nota<gap reason="illegible: page creased" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> les donnez dans les Conseils du Roy fo.</item>
+               <item>Alinda histoire tragique 12.</item>
+               <item>Amours dive<gap reason="illegible: page creased" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es 12.</item>
+               <item>Alliances du Roy avecq le Ture &amp; autres 8.</item>
+               <item>Abrege des preceptes d'Algebre 4.</item>
+               <item>Adresse pour aquerir la facilite de persuadir &amp; pervenir a la vraye Elo<g ref="char:EOLhyphen"/>quence 8.</item>
+               <item>Aristandre histoire Germanicque 12.</item>
+               <item>Apologie pour Monsieur de Balzac 8.</item>
+               <item>Academie Francois 8.</item>
+               <item>Ambassades de Card<gap reason="illegible: page creased" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rron fo. &amp; 8.</item>
+               <item>Anatomie de Gelec 8.</item>
+               <item>Art militaire de la Prugn<gap reason="illegible: page creased" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 8.</item>
+               <item>Abrege du Pont. 12.</item>
+               <item>Art militaire de Braissac 8.</item>
+               <item>Annales treselegantes des Gaules fo.</item>
+               <item>Apologie pour la S. Cene 8.</item>
+               <item>Apologie contre le traitte de la Melancholie 4.</item>
+               <item>— pour Herodote des merveilles anciennes S.</item>
+               <item>Accomplissement des Propheties 8.</item>
+               <item>Anti-Mariana 8.</item>
+               <item>Anti-Panigarole 8.</item>
+               <item>Apothegmes Ecclesiastiques 8.</item>
+               <item>Aretin sur les 7. pseaumes de la penitence 12.</item>
+               <pb facs="tcp:27863:3"/>
+               <item> L'Alcoran des Cordeliers Lat. &amp; Fran. 12.</item>
+               <item>Adviz de Fra. Guicciardin 12.</item>
+               <item>Articles de la Trefue faict en Anvers. 1609.</item>
+               <item>A<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tree du Signeur D'Vrfe. 8.</item>
+            </list>
+            <list>
+               <item>BElley les Diversires en 10. vol. 8.</item>
+               <item>— les Relations morales 8.</item>
+               <item>— Crayon de L'Eternite 8.</item>
+               <item>— Sainct Augustin de L'Onvrage des Moines 8</item>
+               <item>— Les Evenemens singuliers 8.</item>
+               <item>— Traicte de la pauvercte Evangelique 8.</item>
+               <item>— Les Lecons Exemplaires 8.</item>
+               <item>— La Tour des mircirs 8.</item>
+               <item>— Parthenice ou peinture d'une Invincible Chastre 8.</item>
+               <item>— L'Esprit du B. Francois de Sales 8.</item>
+               <item>— Les Entretiens historiques 8.</item>
+               <item>— Traicte de la desa propriation claustrale 8.</item>
+               <item>— Les occurrences remarquables.</item>
+               <item>— Le Casilde ou I bon heur de l'honestet 8.</item>
+               <item>Beroald. Tableau des Riches Inven<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions 4.</item>
+               <item>Bibliotheque des Autheurs qui ont escrit Phstoire de la France 8.</item>
+               <item>Bible Francois fo. &amp; 8. Rochel.</item>
+               <item>Bouquet de l'Eloquence 8.</item>
+               <item>Berger Extravagant 8. 2 vol.</item>
+               <item>Brevi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r des Courtilans 8.</item>
+               <item>Bonquet d'Histoires admirables 8.</item>
+               <item>Brauartures des Accords.</item>
+               <item>Balzac quatre livres des Letters 8.</item>
+               <item>Belley la demolition des Fonde mens de la doctrine Protestant. 8.</item>
+               <item>— Recueil histoire Belgique 12.</item>
+               <pb facs="tcp:27863:3"/>
+               <item> — de la mendicite legitime 12.</item>
+               <item>Bodin de la Republique 8.</item>
+               <item>Blazon des Armoiries avec figures 4.</item>
+               <item>Ballance de l'Harangue du Seigneur Dudley Carleton 4.</item>
+            </list>
+            <list>
+               <item>CArtas de Antonio de Perez 8.</item>
+               <item>Curiositez inouyes sur la sculpture des Persans 8.</item>
+               <item>Corps de Philosophie du Pleix 8.</item>
+               <item>Cartel de Deffy. du S. du Bovino 8.</item>
+               <item>Commentaire Historique de Vicomte de D'Hona 4.</item>
+               <item>C. Suetone Tranquille de la vie des douze Cesars 4.</item>
+               <item>Clytophon &amp; Leucippe 8. avec des figures.</item>
+               <item>Conclusions D'Audiane de M. Pierre de Fabry 8.</item>
+               <item>Cantiques de l'Eglise &amp;c. par laques Pnion 8.</item>
+               <item>Centuries des Questions traitees ez Conferences 4. 3. vol.</item>
+               <item>Corneille Tacite fo. &amp; 8.</item>
+               <item>Cronique de Louis XI.</item>
+               <item>Commentaire de Montluc 8.</item>
+               <item>Ceremonie de l'Eglise 8.</item>
+               <item>Confessions du S. Augustin. 8.</item>
+               <item>Commes 12.</item>
+               <item>Chiromance d'Indagine.</item>
+               <item>Curiositez Naturelles 12.</item>
+               <item>Contre Assassin, ou response a l'Apologie des Iesuits 8.</item>
+               <item>Chroniques d 3. Chresten Roy Loys 9. 4.</item>
+               <item>Consolation des malades.</item>
+               <item>Comptez du Monde adventureux.</item>
+               <item>Cauz la Perspective des ombres &amp; miroirs fo.</item>
+               <item>Considerations Civiles sur les Histoires 8.</item>
+            </list>
+            <list>
+               <pb facs="tcp:27863:4"/>
+               <item>DIscipline inilitaite de Bellay 8.</item>
+               <item>De l'Indifference par L. Pere Iues 8.</item>
+               <item>De la Morliere. Antiquites de la Ville d'Amiens 4.</item>
+               <item>Dialogues Francois &amp; Espagn<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ols 8.</item>
+               <item>Dialogo d'Amore di Bocaccio 12.</item>
+               <item>De l'Escale le Champion des Femmes 8.</item>
+               <item>Diverses effections de Minerve 8.</item>
+               <item>Du Vair. la saincte Philosophie 12.</item>
+               <item>Discours Chresti<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns de la Divinite 8.</item>
+               <item>Discours de l'Estat de Paix &amp; de Guerre 4.</item>
+               <item>De la Charge des Gouverneurs des Places fo.</item>
+               <item>Drelincourt lettre a Mounsieur du Moulin 8.</item>
+               <item>— le Triomphe de l'Eglise sous la Croix 8.</item>
+               <item>— Compendio delle Controversie 24.</item>
+               <item>Discours sur les medalles antiques 4.</item>
+               <item>— sur le Governement des Monarchies 4.</item>
+               <item>Dictionaire Civil &amp; Canonique fo.</item>
+               <item>Du Franc-Aleu &amp; Origine des Droicts Scigneuriaux 4.</item>
+               <item>Declaration de M. F. Cupif 8.</item>
+               <item>— de Pere Bafile 8.</item>
+               <item>Description des hommes Illustres &amp; autres renommez fo. 3. vol.</item>
+               <item>De la perfection Religieuse 8.</item>
+               <item>De l'Autorite des Roys</item>
+               <item>Daphnis &amp; Cloe, avec des figures 8.</item>
+               <item>Discours des vertus &amp; des vices de l'histoire 8.</item>
+               <item>— contre les ouels 8.</item>
+               <item>— de Monsieur de Balzac sur une Tragedie de M. Heinsius 8.</item>
+               <item>Defence des Droicts &amp; prerogatives des Roys 8.</item>
+               <item>De la souverainete du Roy 8.</item>
+               <item>De la Monarchie du Verbe incarne 4.</item>
+               <pb facs="tcp:27863:4"/>
+               <item> Discours Chronologiques 4.</item>
+               <item>Diverses sortes des figures en taille douce.</item>
+               <item>— Comedies &amp; Tragedies relies ensemble, en 12. vol. 4.</item>
+               <item>Decade de Henry XIV.</item>
+               <item>Diversitez de Monsieur Camuz Evesque de Bellay 8.</item>
+               <item>Divers Autheurs ensemble 8.</item>
+               <item>Droicts de l'Eglize Catholique 8.</item>
+               <item>Declaration du Roy contre le D. de Vendosme &amp; ailleurs 4.</item>
+               <item>— du Roy de la grand Bretaigne contre Vorstius 4.</item>
+            </list>
+            <list>
+               <item>EScole de Patience 12.</item>
+               <item>Even<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mens singuliers 8.</item>
+               <item>Estats &amp; Empires 4.</item>
+               <item>Eschelle de Paradis.</item>
+               <item>Epistres des Princes 8.</item>
+               <item>Examen pacifique de la doctrine des Huguenots 4.</item>
+               <item>Establissements des Estats de France. 8.</item>
+            </list>
+            <list>
+               <item>FLeurs des Saincts so.</item>
+            </list>
+            <list>
+               <item>GVilliet le Renovellement des anciens alliances 4.</item>
+               <item>Generale Conduite asseuree des Ames a leur perfection 8.</item>
+               <item>Grammaire Italienne &amp; Francois 8.</item>
+               <item>— Angloise 8.</item>
+               <item>— Espagnole Expliquee en Francois 8.</item>
+               <item>Garasse somme Theologique fo.</item>
+               <item>Guicciardin description du Pays-Bas fo.</item>
+               <item>Godefroy d'Artus III Duc de Bretaigne 4.</item>
+               <item>Gramaire Francois du Maupas 12.</item>
+            </list>
+            <list>
+               <pb facs="tcp:27863:5"/>
+               <item>HIstorie de la Delivrance de l'Eglise Chrestiennepar l'Empereur Constantin, fo.</item>
+               <item>— des Amans Volage de ce temps 8.</item>
+               <item>— de Polyarque &amp; Argenis 12.</item>
+               <item>— Generale D'Espagne fo. 2. vol.</item>
+               <item>— Celtique D'Amindo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ix &amp; de Celante 8.</item>
+               <item>— de la maison de Luxembourg 8.</item>
+               <item>— Ethiopique d'Heliodore 8. avecq des figures.</item>
+               <item>— Tragi-Comique de nostre temps 12.</item>
+               <item>— Generale du Serrail du Grand Turc 8.</item>
+               <item>— Generale des Larrons 8.</item>
+               <item>— de Louis Vnziesme Roy de France 8.</item>
+               <item>— des Yncas Roys de Peru 4.</item>
+               <item>— Generale de la Guerre de Flandre fo.</item>
+               <item>— de Naples &amp; de Sicile fo.</item>
+               <item>— des Comptes de Foix, Bearn, &amp; Navarre 4.</item>
+               <item>— de S. Louis I X. du nom Roy de France 4.</item>
+               <item>— Genealogique de la maison de Gunies fo.</item>
+               <item>— Genealogique de la maison de Vergy fo.</item>
+               <item>— de l'Administration du Cardinal Ximenes 4.</item>
+               <item>— Generale de l'ordre sacre des nimimes 4.</item>
+               <item>— de la maison de Montmorency fo.</item>
+               <item>— de ce qui s'est passe au Royaume d'Ethiope 8.</item>
+               <item>— de ce qui s'est passe au Royaume du Iapon 8.</item>
+               <item>— Ecclesiastiques des Isles &amp; Royaumes du Iapon 4.</item>
+               <item>— des Roys, Ducs. &amp; Comtes de Bourgongne 4.</item>
+               <item>— de la maison de Chastillon sur marne fo.</item>
+               <item>— Genealogique de la maison royale des Dreux fo.</item>
+               <item>— des Comtes de Tolose fo.</item>
+               <item>— de Fl. Iosephe sacrificateur Hebreu fo.</item>
+               <item>— Romaine 4.</item>
+               <pb facs="tcp:27863:5"/>
+               <item> — Romaine en 4 vol. avecq la suitte in fo.</item>
+               <item>— memorable de la vie de la pucelle d'Orleans 8.</item>
+               <item>— Veritables des Infortunes &amp; tragiques Amours 12.</item>
+               <item>— D' Arthemize 8.</item>
+               <item>— Pitoyable du Prince Erastus 8.</item>
+               <item>— du grand Tamerlanes 12.</item>
+               <item>— Prodigieuses 16.</item>
+               <item>— Trag ques de nostre Temps 8.</item>
+               <item>— Tragique dun mariage infortune 12.</item>
+               <item>— de la Cour 8.</item>
+               <item>— des Aman<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Volages de ce temps 8</item>
+               <item>— Asiatique de Cerinth<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, de Calianthe &amp; d'Artenice 8.</item>
+               <item>— de la Dernicre Guerre de Suede 8.</item>
+               <item>— Apologetique d'Abba. Roy de Perse.</item>
+               <item>— Sommaires des choses plus memorables de Moldavie 8.</item>
+               <item>— Amoureuse de Cleagenor &amp; Doristee.</item>
+               <item>— Genealogique de la maison des Chasteigners fo.</item>
+               <item>— Romaine depuis la Fondation de Rome, par Dupleix fo.</item>
+               <item>— Generale de France avecq l'estat de l'Eglise, &amp; de l'Empire, fo. 2. vol.</item>
+               <item>— Catholique des hommes &amp; femmes Illustres, fo.</item>
+               <item>— de la Guerre de Flandreo par Bentivoglio. 4.</item>
+               <item>— de France par Pierre Matthieu fo. 2. vol.</item>
+               <item>— de l'Antiquite &amp; sainctete de la Cite de Vienne 8.</item>
+               <item>— de l'Administration du Cardinal d'Amboise 4,</item>
+               <item>— de la vie due Conestable de Lesdiguieres fo.</item>
+               <item>Harmonie Vniverselle contenant la Theorie &amp; la Pratique de la mu<g ref="char:EOLhyphen"/>sique fo.</item>
+               <item>Harmonie Mique ou accord des Philos. avecq les Scholies 8.</item>
+               <item>Histoire de la Conscience par David Buchanan 8.</item>
+               <item>— Negrepontique 8.</item>
+               <item>Hellenin &amp; son heureux malheur 8.</item>
+               <pb facs="tcp:27863:6"/>
+               <item> Homelies sur l'Epistre de S. Paul aux hebreux 4.</item>
+               <item>Histoire de Barbarie, &amp; de ses Corfaires 4.</item>
+               <item>— de l'Ele&amp;ion &amp; Couronnement du Roy des Romains 8.</item>
+               <item>— D'Aubigne fo.</item>
+               <item>— De seraille 8.</item>
+               <item>Honeste Homme 8.</item>
+               <item>Histoires Tragiques de Rolet 8.</item>
+               <item>— des Larrons 8.</item>
+               <item>— de Sejanus par Matthieu 12.</item>
+               <item>Hermiante de Bellay.</item>
+               <item>Histoire de France par Signeur du Haillen, fo.</item>
+               <item>— de l'Eglize depuisle Babtesme fo.</item>
+               <item>Harangu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z faicts en la Cour de Poictou 4.</item>
+               <item>— funebre de l'Ame de Hen. XIIII. Roy treschrestien 8.</item>
+               <item>Histoires admirables de nostre temps.</item>
+               <item>— prodigieux des fameux Autheurs 8.</item>
+               <item>— notable de la Floride 8.</item>
+               <item>Hall caracteres des Virtus &amp; Vicec 12.</item>
+            </list>
+            <list>
+               <item>I Conologie ou explication nouvelle des plusieurs Images fo,</item>
+               <item>Inventaire des deus langues Francoise &amp; Latine fo. par Monet.</item>
+               <item>Iugement des actions Humaines par le Sieur Marande 8.</item>
+               <item>Il Pastor fido 24. con figure.</item>
+               <item>Inventaire Generale de l'Histoire de France fo. par de Serres.</item>
+               <item>Inrreduction a la Geographie Vniverselle 8.</item>
+               <item>Inventaire General des plus curicuses Recherches d'Espagne 8.</item>
+               <item>Introduction a la Poesie 8.</item>
+               <item>Indice Armorial ou explication des mots, usitez au Blason des Atmoi<g ref="char:EOLhyphen"/>ries fo.</item>
+               <item>Instructions &amp; missmes des Roys concernant de Concile de Trent. 4.</item>
+               <item>Ioyes de Mariage</item>
+            </list>
+            <list>
+               <pb facs="tcp:27863:6"/>
+               <item>LEs Ouvres de Messire Iean Pelleus fo.</item>
+               <item>Les practiques du Seigneur Fabre sur l'ordre de Fortifier fo.</item>
+               <item>L'histoire de la Decadence de l'Empire Grec fo.</item>
+               <item>Les Metamorphoses d'Ovide, fo. avecq des fig.</item>
+               <item>La Fortification reduicte en l'art par feu fo.</item>
+               <item>Le Essais de Michel Signeur de Montaigne fo.</item>
+               <item>Les Ouvres spirituelles de Grenade fo.</item>
+               <item>Les Hieroglyphiques de Ian-Pierre Valerian fo.</item>
+               <item>Les Oeuvres de Luc-Ann. Seneque fo.</item>
+               <item>Les Ouvres de Messire Andre Du Laurens fo.</item>
+               <item>Les Images ou Tableaux de Platte Peinture des Dieux fo.</item>
+               <item>Lettres &amp; Embassades de Messire Philippe Canage fo. 3 vol.</item>
+               <item>Les Grandeurs &amp; misteries du S. Verbe incarne fo. 2. vol.</item>
+               <item>Les Ouvres de Messire Simon d'Olive Seigneur du Mesnil fo.</item>
+               <item>Les Coustumes Generales &amp; Particulieres de France &amp; de Gaules fo.</item>
+               <item>La perspective curieuse ou Magie Artificie des effects marveillieux fo.</item>
+               <item>Le Roy d'Armes ou l'art de bien blazoner toutes les serte d'Armoi<g ref="char:EOLhyphen"/>ries fo.</item>
+               <item>Le Code Louis XIII fo.</item>
+               <item>La Triple Couronne de labien heureuse Vierge mere de Dieu fo.</item>
+               <item>Les Chroniques &amp; Annales de France par F. de Belleforests fo.</item>
+               <item>Les Estats &amp; Empires du Monde fo.</item>
+               <item>Les Fortifications du Chevalier Antonie de Ville fo.</item>
+               <item>Liuvres d' Architetture fo.</item>
+               <item>Lisander &amp; Caliste 12.</item>
+               <item>Licee de Bardin 8.</item>
+               <item>Libertez &amp; droicts de l'Eglize Gallicane 4.</item>
+               <item>L'Estat des Affaires de France 12.</item>
+               <item>Laune response touchant les Images 8.</item>
+               <item>Lessons diverses de Messie 8.</item>
+               <item>Les plaisams &amp; facetieux deviz.</item>
+               <pb facs="tcp:27863:7"/>
+               <item> Les facetieux Nuicts du Seigneur Straparole 8.</item>
+               <item>Lettres &amp; discours a la Royne mere de France,</item>
+               <item>— du Cardinal d'Ossat 8.</item>
+               <item>— de P. Garasse a Monsieur Ogier 12.</item>
+               <item>Le parfaict Capitan 4.</item>
+               <item>L'amour advantureux de Verdier 8.</item>
+               <item>Les Dionysiaques ou le parfair beros 4.</item>
+               <item>Le Palais d'Angelie 8.</item>
+               <item>Les Voyages du Seigneur de Villamont 12,</item>
+               <item>Luranie du Seigneur de Montagathee 8.</item>
+               <item>L'Angelique du Seigneur de Remg. 8.</item>
+               <item>Les amours d'Endimion &amp; de la lune 8.</item>
+               <item>La Clorymene de Marcaffus 8.</item>
+               <item>L'Argenis de Barclay 8. 2 vol.</item>
+               <item>Le Paisan Francois 8.</item>
+               <item>Lettres Amoureuses 8.</item>
+               <item>Les Oeuvres Poetiques du Signeur Daudiguier 8.</item>
+               <item>Le mespris de la Cour 8.</item>
+               <item>Les plaintes de pallas 8.</item>
+               <item>Le Berger extravagant 8. 3 vol.</item>
+               <item>L'Anti-Roman 8.</item>
+               <item>Le Camp de la place Royalle 8.</item>
+               <item>Les Amours D'Anaxandre &amp; d'Orafie 8.</item>
+               <item>L'Innocence Reconue 8.</item>
+               <item>L'Antiquite des latrons.</item>
+               <item>Les heureuses infortunes 8.</item>
+               <item>Les morales du Messire A. Theveneau 8.</item>
+               <item>La maniere de lire l'histoire 8.</item>
+               <item>Les chastes Amours d'Armonde 8.</item>
+               <item>Le fidelle historien des affaires de France 8.</item>
+               <pb facs="tcp:27863:7"/>
+               <item> Les advantures fortunees 8.</item>
+               <item>Les nouvelles de Miguel de Cervantes 8.</item>
+               <item>Les Epigrammes de M. de Mailliet 8.</item>
+               <item>Les premieres Oeuvres Poetiques du Scigneur Frenicle 8.</item>
+               <item>Les Traverses du Seigneur de Resneville 8.</item>
+               <item>Les veritez Franco<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es oppesees aux Calomines Espagnoles 8.</item>
+               <item>La Pierre de touch<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chronologique 8.</item>
+               <item>Lyderic, premier forestier de Flandre 8.</item>
+               <item>Les Oeuvres de Messire Francois de Malherbe 8.</item>
+               <item>La Difference de la Monarchie Francoises &amp; autres Monarchies 4.</item>
+               <item>Les morales Chrestiennes 4. 2 vol.</item>
+               <item>L'Ariane de Monsieur des Marets 4. avecq des sig.</item>
+               <item>L'Apologie du Theatre par Monsieur de Scudery 4.</item>
+               <item>L'Honeste femme 4. 3 vol.</item>
+               <item>Le parfait Capitaine aultrement l'Abrege des Guerres de Gaules 4.</item>
+               <item>Les Amours de Tristan 4.</item>
+               <item>Le Theatre d'Honneur &amp; de Chevalerie 4. avecq des figures.</item>
+               <item>L'Arioste ou Roland le furicux, avecq des figures 4.</item>
+               <item>Le Thresor de l'Ame Chrestienne 4.</item>
+               <item>L'Eucharistie de l'Ancienne Eglise fo.</item>
+               <item>Le Thyeste de Monsieur de Monleon 4.</item>
+               <item>Le Parnasse Royal. 4.</item>
+               <item>Les Oeuvres de San Marthe 4.</item>
+               <item>Les Voyages de la nouvelle France 4.</item>
+               <item>L'Empire du Iuste 4.</item>
+               <item>Les Oeuvres de Cornel. Tacit. Chevalier Romain 4</item>
+               <item>Les Oeuvres de C. Saluste prince des historiens Romains 4.</item>
+               <item>Les Esclaircissemens de Meli<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on sur les Entretiens Curieux 4.</item>
+               <item>Le Novitiat d'Hermogene 4.</item>
+               <item>La Milice Royale 4. avecq des figures.</item>
+               <pb facs="tcp:27863:8"/>
+               <item> Les Lettres de Messire Paul de Foix 4.</item>
+               <item>Le ministre d'Estat 4.</item>
+               <item>Les advis ou les presens de la Damoiselle de Gournay 4.</item>
+               <item>Liuvres diverses en Musique.</item>
+               <item>La science des Saincts 4.</item>
+               <item>Le juste Prince ou miroir des Princes 4.</item>
+               <item>Le Tableau de Riches inventions 4.</item>
+               <item>Le Roy triumphant 4.</item>
+               <item>Les entretiens du sage 4.</item>
+               <item>La theologie naturelle de P. Iues 4. 4 vol.</item>
+               <item>Les usages du Quadrant a l'Esguille Aymantee 4.</item>
+               <item>Le sage en Cour de Matteo Peregrini 4.</item>
+               <item>Le triomphe de la vertu sur la mort 4.</item>
+               <item>Les palmes du Iuste poeme historique 4.</item>
+               <item>Les memoires d'Estat de Messire Philippes Herault 4.</item>
+               <item>Liuvre de Fondateurs 4.</item>
+               <item>— des Fondaterisses 4.</item>
+               <item>— de Examples pour Eserire fo.</item>
+               <item>— de figures de la Bible.</item>
+               <item>L'Analyse de la providence Divine 8.</item>
+               <item>L'Imitacon de Thomas a Kempe avecq des figures 8.</item>
+               <item>L'Odissee d'Homere 8.</item>
+               <item>Le Regime de Sante de l'eschole de Salerne 8.</item>
+               <item>La Philosophie Chrestienne 8.</item>
+               <item>L'Endimion de Gombauld 8.</item>
+               <item>Le Prophesie Isaye, expose sommairement en Paraphrase 8.</item>
+               <item>La Methode Francoise 8.</item>
+               <item>Les Contes &amp; Discours d'Eutrapel 8.</item>
+               <item>La Magie Naturelle 16.</item>
+               <item>Le Romant Heroique 8.</item>
+               <pb facs="tcp:27863:8"/>
+               <item> La Chrysolite ou le secret des Romans 8.</item>
+               <item>L'Histoire de Don Belianis de Grece 8.</item>
+               <item>Le Sireine de Messire Honore d'Vrfe 8.</item>
+               <item>La Solitude Amoureuse 8.</item>
+               <item>Le Prince de Balzac 8.</item>
+               <item>Les Oeuvres de Balzac 8. 2 vol.</item>
+               <item>L'Hippocondriaque 8.</item>
+               <item>L'Histoire de Richard sans peur 8.</item>
+               <item>Les memoires de la Royne Marguerite 8.</item>
+               <item>L'Ingratitude punie 8.</item>
+               <item>Les advantures de Poliandres &amp; Theoxene 8.</item>
+               <item>La Polixene de moliere 8.</item>
+               <item>Lettres polytiques morales &amp; amoureuses 8.</item>
+               <item>Les amours d'Armide 12.</item>
+               <item>Les Religieuses amours de Florigine &amp; de Meleagre 12.</item>
+               <item>Les Chastes &amp; Infortunees amours 12.</item>
+               <item>Les amours d'Angeline &amp; Lauriphile 12.</item>
+               <item>Les Romant de Romans 6. vol.</item>
+               <item>Lexil de Polixandre 8.</item>
+               <item>Lettres de Monsieur de Lannel 8.</item>
+               <item>Les advantures amoureuses d'Ismene &amp; Ismenie 8.</item>
+               <item>Les Travaux du prince incognu 8.</item>
+               <item>Les temps perdu d'Isaac du Ryer 8.</item>
+               <item>L'Eloquence des Lettres Francoises 8.</item>
+               <item>Le Mespris de la Mort 8.</item>
+               <item>Le Theatre d'Alexander Hardy Parisien. 8.</item>
+               <item>Les chastes &amp; loyales amours de Theagene &amp; Cariclee 8.</item>
+               <item>Les Oeuvres Poetiques du Sieur de Pinpager 8.</item>
+               <item>Les Histoires Tragieques de nostre temps 12.</item>
+               <item>Le Pantheon &amp; Temple des Oracles ou preside Fortune 8.</item>
+               <pb facs="tcp:27863:9"/>
+               <item> Le Voyage de France 8.</item>
+               <item>Le bon Pasteur 8.</item>
+               <item>L'Angelique du Seigneur de Montagarthe 8.</item>
+               <item>L'Arithmetique de Pierre de Mardele 8.</item>
+               <item>Les Esclaues ou l'Histoire de Perse 8.</item>
+               <item>Le Grand Voyage du Pays du Hurons 8.</item>
+               <item>Le Brillant de la Royne.</item>
+               <item>Les Antiquites &amp; Recherches des Villes Chasteaux &amp;c. 8.</item>
+               <item>L'Admirable histoire du Chevalier du Soleil 8.</item>
+               <item>Les Oeuvres de Torqueto Tasso 8. 3 vol. avecq des figures.</item>
+               <item>Le Melante du Sieur Videl 8.</item>
+               <item>Les Reigles sentences &amp; maximes de l'Art militaire 8.</item>
+               <item>Les Fables d'Esope 8. avecq des figures.</item>
+               <item>Les Metamorphoses ou l'Asne D'or, avecq des figures 8.</item>
+               <item>Les Metamorphoses d'Ovide 8.</item>
+               <item>Les politiques de Vincent Cabot Tolosain 8.</item>
+               <item>Le Gueux ou la vie de Guzman 8.</item>
+               <item>L'honeste homme ou l'Art de plaite a la Court 8.</item>
+               <item>Le Mercure Suisse 8.</item>
+               <item>Les Oeuvres du Seigneur Saint Amant 8.</item>
+               <item>La mirroir qui ne Flatte point.</item>
+               <item>Le Grand Dictionaire des Rime: Francoises 8.</item>
+               <item>Les Visions de Don Francisco de Quevedo 8.</item>
+               <item>La Polixandre en 5 vol. 8.</item>
+               <item>Lettre d'Aretino 8.</item>
+               <item>Les Veritez Francoises opposets, aux Calomnies Espagnosses 8.</item>
+               <item>Les Oeuvres de Theophile 8.</item>
+               <item>Les leux de l'Inconnu 8.</item>
+               <item>Les Pensees du solitaire 8.</item>
+               <item>Le Lycee de Seigneur Bardin 8.</item>
+               <pb facs="tcp:27863:9"/>
+               <item> Les Riches entretiens des adventures 8.</item>
+               <item>Les Ordonances Militaires 8.</item>
+               <item>Les Principes de l'art Militaire 8.</item>
+               <item>L'Astree de Messire Honore d'Vrfe 8.</item>
+               <item>Le Berger fidelle 8.</item>
+               <item>Le Mareschal Expert 8.</item>
+               <item>Le Valereux Don Quixote de la Manche 8.</item>
+               <item>Le Bouquet sacre 8.</item>
+               <item>L'Iliade d'Homere 8.</item>
+               <item>Les Amours des Deesses par le Seigneur de la Serre 8.</item>
+               <item>Le liuret du sage Marchand 8.</item>
+               <item>La Croix Arboree dans le Champ de l'Eglise 8.</item>
+               <item>Le Contrepoids de l'Ame 8.</item>
+               <item>Le vray styl du conseil prive du Roy 8.</item>
+               <item>La Pierre de Touche Chronologique 8.</item>
+               <item>La vie du Cardinal Bellarmin 8.</item>
+               <item>La Semaine des Medicamens 8.</item>
+               <item>Les Oeuvres du medicin Charitable 8.</item>
+               <item>L'Horac Francois 8.</item>
+               <item>L'Vsage du Compas de Proportion 8.</item>
+               <item>Lysigeraste ou les desdains de Lyside 8.</item>
+               <item>Le Prototype ou tresparfait exemple de l'art Chimicque 8.</item>
+               <item>Le Parnasse Satyrique du Sieur Theophile 8.</item>
+               <item>Les Avantures du Baron de Faeneste 8.</item>
+               <item>Les Oeuvres Poetiques de Monsieur Bertaut Evesque 8,</item>
+               <item>Les Oeuvres de Philon Iuif 8.</item>
+               <item>Le Rabat Ioye du triomphe monacal 8,</item>
+               <item>Le Moyen de devenir Riche 8.</item>
+               <item>La theologie affective 8.</item>
+               <item>Les muses en dueil 8.</item>
+               <pb facs="tcp:27863:10"/>
+               <item> Les Epistres d'Ovide 8.</item>
+               <item>Les diverses Fortunes de Panfile &amp; de Nise,</item>
+               <item>Le Renaud amoureux 8.</item>
+               <item>Les Avantures Heroiques &amp; Amoureuses 8.</item>
+               <item>Le Theatre du malheur 8.</item>
+               <item>Les amours de Clitophon &amp; de Leucippe 8.</item>
+               <item>Lecons politiques &amp; militaires 8.</item>
+               <item>La vraye anatomie Spagyrique des ceaux mineralles 8.</item>
+               <item>Le mystere sacre de nostre Redemption 8. 3 vol.</item>
+               <item>Le Desert du Sieur de Lortique 8.</item>
+               <item>Le Royal jeu des Eschets, avec son invention 8.</item>
+               <item>Le Tombeau des Delices du monde 8.</item>
+               <item>Les Fortunes diverses de Chrysolinde &amp; Kalinde 8.</item>
+               <item>Le Sejour des muses ou la eresme des bons vers.</item>
+               <item>La Philosophie les Esprits 8.</item>
+               <item>La fille supposee histoire veritable &amp; du temps.</item>
+               <item>L'usage du Quadran, ou le l'Horloge Physique universelle.</item>
+               <item>Les novelles pensees de Galilei 8.</item>
+               <item>Les amours de Dorimon &amp; de Celle 8.</item>
+               <item>L'Olimpe ou la princesse inconue 8.</item>
+               <item>Le Roman de Melusine 8.</item>
+               <item>Lindami chistoire Indienne 8.</item>
+               <item>Les Delices de la mort 8.</item>
+               <item>La prise &amp; la Batailie de Leucate 8.</item>
+               <item>Les lettres d'Antonio Perez 8.</item>
+               <item>La Chrysolite oule secret des Romans 8.</item>
+               <item>Les amantes infidelles trompees 8.</item>
+               <item>L'Incesse innocent histolre veritable 8.</item>
+               <item>Launay Arithmetique 8.</item>
+               <item>Le Voyag du Don Fernand Infante d'Espagne 4.</item>
+               <pb facs="tcp:27863:10"/>
+               <item> Lettres de Estienne Pasquier 8.</item>
+               <item>L'Histoire de France par Girard 8.</item>
+               <item>Les Epistres Morales de Messire Honore d'Vrse.</item>
+               <item>Le Sainct Despoir d'Oleastre 12.</item>
+               <item>La passion de nostre Seigneur I. C. par S. Matthieu.</item>
+               <item>Les Oeuvres de P. de Ronsard 12.</item>
+               <item>Le Parnasse des plus excellents Poetes de ce temps 8.</item>
+               <item>Les politiques on Doctrine Civile de Iuste Lipse 12.</item>
+               <item>Le moyen de Pa<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>enir 12.</item>
+               <item>La Sage folie Foncaine d'Allegcesse 12.</item>
+               <item>La Vie de Lazarille de Tormes 12.</item>
+               <item>Les Memoires de Messire Pollippe de Comines 12.</item>
+               <item>Lettre de Sainct Eacher a son Cousin Valercan 24.</item>
+               <item>L'Avantcoureur de l'Eternite messager de la mort 12.</item>
+               <item>La vie miraculeuse de S. Catherine de Sienne 8.</item>
+               <item>Les tableaux sacrez de l'ame Penitente 12. avecq des figures.</item>
+               <item>Les charmes de la solitude volontaire 12.</item>
+               <item>Les adventurcuses fortunes d'lpsilis &amp; Alizee 12.</item>
+               <item>Les trophees de l'Amour 12.</item>
+               <item>Les abus du monde 12.</item>
+               <item>Le Romant d'Acrine 12.</item>
+               <item>La Philosophie occulte 12.</item>
+               <item>Le soldat Navarrois.</item>
+               <item>Le gardin sacre de l'ame solitaire 12</item>
+               <item>Le Courtisan Celeste 12.</item>
+               <item>L'advocat des femmes 12.</item>
+               <item>Le Democrite Chrestien 12.</item>
+               <item>L'histoire du commerce du France.</item>
+               <item>Les changemens de la bergere 12.</item>
+               <item>Les estranges Avantures d'un grand Prince 12.</item>
+               <pb facs="tcp:27863:11"/>
+               <item> L'Armonie Funebre 12.</item>
+               <item>La defaite d'Amour.</item>
+               <item>Les des espoirs Amoureux 12.</item>
+               <item>Les Amours &amp; avanteurs d'Alimedor 12.</item>
+               <item>Les Amours de Lozie 12.</item>
+               <item>Le Iugement de Paris &amp; le Rauissement d'Helene 12.</item>
+               <item>Les amours Folastres &amp; recreatives 12.</item>
+               <item>Les amours de Floris &amp; Cleonthe 12.</item>
+               <item>Les histoires Tragiques, en 7 tomes 16.</item>
+               <item>Les Oeuvres de Bruscambile 12.</item>
+               <item>Les amours de Lydian &amp; Floriande 12.</item>
+            </list>
+            <list>
+               <item>MEmoires de Messire Philippes de Mornay 4.</item>
+               <item>Mythologie ou explication des Fables fo. avecq des figures.</item>
+               <item>Memoires des Pays, villes Comte &amp; Comtes 4.</item>
+               <item>Memoires de l'Histoire de Languedoc fo.</item>
+               <item>Memoires d'estat par Monsieur de Villeroy 8.</item>
+               <item>Moulin Accroilement des Eaux de Siloe 8.</item>
+               <item>— de l'Amour divin 12.</item>
+               <item>— du iuge des Controverses 8.</item>
+               <item>— Defense de la foy Catholique 8.</item>
+               <item>— Response a quatre demandes 8.</item>
+               <item>— Sainctes prieres 24.</item>
+               <item>— les Elemens de la Philosophie 8.</item>
+               <item>— Anatomie de la Messe 8.</item>
+               <item>— Decade des Sermona 8. 2 vol.</item>
+               <item>Manifeste du Charles-Louis Comte Palatin 4.</item>
+               <item>Memoires &amp; advis des charges des Chanceliers 4.</item>
+               <item>Melchisedech on discours du Grand Prestre Roy 8.</item>
+               <item>Mercure Francois Vingt-uniesme tome 8.</item>
+               <pb facs="tcp:27863:11"/>
+               <item> Mestrezat traicte de l'Escriture saincte 8.</item>
+               <item>— de la vertu de la foy 12.</item>
+               <item>— Sermon de justification par la foy 12.</item>
+               <item>— discours de la Grace 8.</item>
+               <item>— Sermons sur les deux premiers chap. aux Hebreux 8.</item>
+               <item>Maximes &amp; instructions de l'Art de la Guerre 12.</item>
+               <item>Memoires milicaires 8.</item>
+               <item>Macchiavelli 4. Italien.</item>
+               <item>Meditations du Po<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 4.</item>
+               <item>Maison Rustique 4.</item>
+               <item>Marguerites Francois 8.</item>
+               <item>Menteur confondu.</item>
+               <item>Matthieu histoire de France.</item>
+               <item>Muse Chrestien 4.</item>
+               <item>Mer des histoires fo.</item>
+               <item>Moulin contre Perron le Cardin. fo.</item>
+               <item>Mespris du monde 8.</item>
+               <item>Moyens d'Abuz 12.</item>
+               <item>Mercure Francois to. XIX 8.</item>
+               <item>Moulin des Traditions 8.</item>
+               <item>— de la vocation des Pasteurs fo.</item>
+               <item>Manifeste pour les armes de la maison d'Austriche 4.</item>
+            </list>
+            <list>
+               <item>NOveau Recueil de Lettres des Dames 8.</item>
+               <item>Narre de la conference entre du Moulin &amp; Cayer 8.</item>
+               <item>Noveau &amp; Dernier Recueil des arrests de Louet fo.</item>
+               <item>Notables &amp; singulieres questions du Droict Escrit fo.</item>
+               <item>Noveau Recueil de lettres hatangues &amp; discours differens 8.</item>
+               <item>Novelles morales en suitte de celles de Cervantes 8.</item>
+               <item>Novelles Pensees sur les causes de la Lumiere 4.</item>
+               <pb facs="tcp:27863:12"/>
+               <item> Nouveau Recueil d'Histoire 8.</item>
+               <item>Noel la Confession &amp; raison de la foy 8.</item>
+            </list>
+            <list>
+               <item>OPuscules Francoises des Hotmans 8.</item>
+               <item>Oeuvres de Messire Louis Charondas sur la Coustume de Paris fo.</item>
+               <item>Observations sur la sterilite &amp; accouchements des Femmes 8.</item>
+               <item>O'acles de Dieu 24.</item>
+               <item>Observations sur le Cid 8.</item>
+               <item>Oeuvres de Senecque 4.</item>
+               <item>— de S. Amants 8.</item>
+               <item>— de Brusambille 12.</item>
+               <item>— de L<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uis le Roy.</item>
+               <item>— mathematiques de Andre Stevi<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fo.</item>
+               <item>Ordonance du Domaine &amp; Droicts de la Couronne de France 16.</item>
+               <item>Oeuvres meslees du Sieur du Vair 8.</item>
+            </list>
+            <list>
+               <item>PIeuses considerations sur divers sujets de l'Escriture 8.</item>
+               <item>Panegyrique au Roy sur la defaite de Hydre.</item>
+               <item>Paraphrase sur les Pseaumes de David par Aretino 24.</item>
+               <item>Plaisans Loisirs de Iean d'Ameron 8.</item>
+               <item>Pierre de touched ou Satyres du temps contre l'ambition des Espagnols 8.</item>
+               <item>Pieces novelles de Monsieur de Maynard 8.</item>
+               <item>Plutarque fo. 2 vol. item in 8.</item>
+               <item>Pseaumes 8. Paris.</item>
+               <item>Practique de Rodriques 4.</item>
+               <item>Pigray la Chirurgie 8.</item>
+               <item>Philosophie de Dupliex 8.</item>
+               <item>Practique de la Piete 12.</item>
+               <item>Pedagoge Chrestien 12.</item>
+               <item>Pensees morales de Bardin. 8.</item>
+               <pb facs="tcp:27863:12"/>
+               <item> Pere Bafile la Recantation</item>
+               <item>Playdoyes de Martelliere 8.</item>
+               <item>Poulain Anthologie Francoise 8.</item>
+               <item>Polibe les Livres d'Histoire fo.</item>
+            </list>
+            <list>
+               <item>REcueil des lettres nouvelles 8.</item>
+               <item>— des diverses pieces pour servir a l'Histoire 4.</item>
+               <item>— des plus beaux vers.</item>
+               <item>— des secrets de Louyse Bourgeois sage-Femme 8.</item>
+               <item>— des plus excellens ballets de ce temps 8.</item>
+               <item>— des enigmes de ce temps 12.</item>
+               <item>— des memoires de France 4.</item>
+               <item>— des memoires d'Estat 8.</item>
+               <item>Roland Amoureux avecq figures 8.</item>
+               <item>Relation de ce qui s'est passe en la novelle France 8.</item>
+               <item>Rondelet de l'Histoire entiere des Poissons fo.</item>
+               <item>Remarques sur la vie du Roy 4.</item>
+               <item>Refutation de l'Astrologie Iudiciaire 8.</item>
+               <item>Rablais 12.</item>
+               <item>Recreations Mathematiques 8.</item>
+               <item>Relations morales 8.</item>
+               <item>Responds de Morney a Monsieur E<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>puys 8.</item>
+               <item>Revision du Concile de Trent 8.</item>
+               <item>Rivet divers traictez de la piete 12.</item>
+               <item>— le Catholique Orthodoxe 4.</item>
+               <item>Roland furieux 8,</item>
+            </list>
+            <list>
+               <item>SErees de Guillaume Boughet 8.</item>
+               <item>Sante des Malades par Turretin 24.</item>
+               <item>Satyre Menippee de la vertu du Catholicon d'Espagne 8.</item>
+               <pb facs="tcp:27863:13"/>
+               <item> Stratagemes de la Guerre 24.</item>
+               <item>Sciences de Lorell 4. 2 vol.</item>
+               <item>Selifandre Romain 8.</item>
+               <item>Somme de Tollet 4.</item>
+               <item>Secrets d'Alexis Piemontois 8.</item>
+               <item>— de Wecker 8.</item>
+               <item>Sermons Catholiques de Vigor 8.</item>
+               <item>— de M. Calvin sur Iob. fo.</item>
+            </list>
+            <list>
+               <item>TRois traitez de la Philosophie naturelle 4.</item>
+               <item>Tableau des passions humains 8.</item>
+               <item>Traicte de l'amour de Dieu 8. par de Sales.</item>
+               <item>Traicte ou Recuells des Canonizatione des Saincts 8.</item>
+               <item>Toutes les oeuvres de Pierre Charron 4.</item>
+               <item>Trois l'uvres des Offices de France fo. 2 vol.</item>
+               <item>Traicte des Droicts honorifiques des Seigueurs es Eglises 8.</item>
+               <item>Thresor de la doctrine Chrestienne 4.</item>
+               <item>Traittes Philosophiques des Pierres &amp; Pierreries 8.</item>
+               <item>Lraictez des droicts &amp; libertez de l'Fglise Gallicane fo.</item>
+               <item>Traicte les oeuvres admirables de Dieu le Createur 8.</item>
+               <item>Traicte de la conversion de la Magdalene 8.</item>
+               <item>Traite de la musique theorique &amp; pratique 4.</item>
+               <item>Traite de M. Iean Fernel de la maladie Venerienne 12.</item>
+               <item>Traitez de l'amour de Dieu &amp; Prochain 8.</item>
+               <item>Traicte des successions Testamentaire &amp; a intestat fo.</item>
+               <item>Traite de la Trigonometrie 8.</item>
+               <item>Testament Noveau 4 &amp; 8.</item>
+               <item>Tromp<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ries de ce Cicile.</item>
+               <item>Theophile 8.</item>
+               <item>Theologie des Pasteurs.</item>
+               <pb facs="tcp:27863:13"/>
+               <item> Tombeau de la melancholie.</item>
+               <item>Traictez diverses &amp; Harangues 8.</item>
+               <item>Ie Temporiseur 8.</item>
+               <item>Tomson la Chasse &amp; de la Beste Romain 8.</item>
+               <item>Tableau des differences de la Religion 8.</item>
+               <item>Thresor des histoires de France.</item>
+               <item>Trenchant l'Arithmetique &amp; des changes 8.</item>
+               <item>Traicte des Chiffres 4.</item>
+               <item>Taillefer instructions de l'Arithmetique 8.</item>
+            </list>
+            <list>
+               <item>VEritable Narre de la Conference entre Moulin &amp; Gonher.</item>
+               <item>Voyage de Monsieur le Prince de Conde en Italie 8.</item>
+               <item>Voyageur incognu 8.</item>
+               <item>Vegece du faict du guerre &amp; des stratagemes fo.</item>
+               <item>Waganer le Flambeau de la Navigation fo.</item>
+               <item>Victoires des Estats du Pays Bas, avec figures fo.</item>
+            </list>
+            <list>
+               <head>Tragedies, &amp; Comedies.</head>
+               <item>COriolan Tragedie par Monsieur Cheureau 4.</item>
+               <item>Le Capitan ou le miles Gloriosus 4.</item>
+               <item>Panthee Tragedie de Monsieur de Tristan 4.</item>
+               <item>Didon Tragedie par Monsieur de Scudery 4.</item>
+               <item>La mort de Cesar Tragedie par Monsieur de Scudery 4.</item>
+               <item>L'Aveugle de Smyrne, Tragi-Comedie 4.</item>
+               <item>La Comedie des Tuilleries 4.</item>
+               <item>Le Comte d'Essex Tragedie 4.</item>
+               <item>Le Docteur Amoureux Comedie 4.</item>
+               <item>La Place Royalle Comedie 4.</item>
+               <pb facs="tcp:27863:14"/>
+               <item> La Galerie du Palais 4. Comedie</item>
+               <item>La Suivante Comedie 4.</item>
+               <item>Le Cid Tragi-Comedie 4.</item>
+               <item>L'Amant liberal Tragi-comedie 4.</item>
+               <item>Le Grand &amp; Dernier Solyman 4. Tragedie.</item>
+               <item>L'amour tirannique Tragi-Comedie 4.</item>
+               <item>La mortides Enfans d'Herodes 4. Tragedie.</item>
+               <item>La Mariane du Seigneur de Tristan 4.</item>
+               <item>Les Rivaux Amis Tragi-Comedie 4.</item>
+               <item>Les deux Amis Tragi-Comedie 4.</item>
+               <item>Les Trahizons d'Arbiran Tragi-Comedie 4.</item>
+               <item>Le Thyeste de Monsieur de Monleon 4.</item>
+               <item>L'Heureuse Constance Tragi-Comedie 4.</item>
+               <item>La Climene Comedie 4.</item>
+               <item>Hercule mourant Tragedie 4.</item>
+               <item>Pirandre &amp; Lismiene ou l'heureuse tromperie Tragi-Comedie 4.</item>
+               <item>Le Ialoux sans sujet Tragi-Comedie 4.</item>
+               <item>Les occasions perdues 4.</item>
+               <item>Le Torismond de Tasse Tragedie 4.</item>
+               <item>La Silvanire ou la morte Vie, avecq des figures 4.</item>
+               <item>Le Torismon du Tasse Tragedie 4.</item>
+               <item>La Sophonisbe Tragedie de Mairet 4.</item>
+               <item>Les Galanteries du Due D'Ossonne Vice-Roy de Naples Comedie.</item>
+               <item>La Virginie Tragi-Comedie 4.</item>
+               <item>Hermogene tragi-Comedie 4.</item>
+               <item>La Celiane tragi-Comedie 4.</item>
+               <item>Hercule Furieux tragedie 4.</item>
+               <item>Lamant liberal tragi-Comedie 4.</item>
+               <item>Le Iugement de Paris &amp; le Ravissement d'Helene tragi-Comedie 4.</item>
+               <item>La Lucresse Romaine tragedie 4.</item>
+               <pb facs="tcp:27863:14"/>
+               <item> Pyrandre &amp; Lisimene ou l'heurese tromperie 4.</item>
+               <item>Les occasions perdues 4 tragi-comedie.</item>
+               <item>Le jaloux sans sujet tragi comedie 4.</item>
+               <item>La mort de Brute &amp; de Po<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cie 4. Tragedie.</item>
+               <item>Celine ou les freres Rivaux, tragi-comedie 4.</item>
+               <item>Les Menechmes, Comedie 4.</item>
+               <item>Le Raillieur ou la Satyre du temps 4.</item>
+               <item>L'Advocat Duppe Comedie 4.</item>
+               <item>Le Galimarias du S. de Roziers Beaulieu 4.</item>
+               <item>L'Heureuse Constance tragi. Comedie 4.</item>
+               <item>La Celimene Comedie 4.</item>
+               <item>L'Amynte Pastoralle, avecq des figures 4.</item>
+               <item>La Cheute de Pacton 4. Tragedie.</item>
+               <item>Antigone Tragedie 4.</item>
+               <item>L'Aure persecutee tragi-comedie 4.</item>
+               <item>Coriolan Represente par la troupe Royal 4.</item>
+               <item>Heracle mourant Tragedie 4.</item>
+               <item>Le Prince d'Eguise tragi-Comedie 8.</item>
+               <item>La Madonte du Seigneur Auvray 8.</item>
+               <item>Le Fils suppose Comedie par Monsieur de Scudery 8.</item>
+               <item>La Comedie des Comediens 8.</item>
+               <item>Il Pastor Fido tragi comedie 24.</item>
+               <item>Le Cid tragi Comedie 12.</item>
+               <item>La Mariane Tragedie 12.</item>
+               <item>La Comedie des <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uilleries 12.</item>
+               <item>L'Aveugle de Smyrne tragi-comedie 12.</item>
+               <item>L'Amant liberal tragi-Comedie 12.</item>
+               <item>Le Panthee Tragedie de Tristan 12.</item>
+               <item>Les Advantures Amourcuses d'Omphale 8.</item>
+               <item>La Sylvie du Signeur Mairet tragi-Comedie Pastorale.</item>
+               <pb facs="tcp:27863:15"/>
+               <item> Le Folies de Cardenio tragi-comedie 8.</item>
+               <item>La Doriste tragi-Comedie 8.</item>
+               <item>Alidor &amp; Oronte tragi-Comedie 8.</item>
+               <item>L'Impuissance tragi-Comedie 8.</item>
+               <item>Les Bocages de la Charneys pastorale 8.</item>
+               <item>La Cydippe pastorale 8.</item>
+               <item>Les Bergeries de Messire Honorat 8.</item>
+               <item>La tragi-Comedie Pastorale de Carite 8.</item>
+               <item>Tir &amp; Sydon tragi-Comedie 8.</item>
+               <item>Pandoste ou la Princesse malheureuse Tragedie 8.</item>
+               <item>La Sylvie du Sieur Mairet tragi-Comedie 8.</item>
+               <item>Alizon Comedie 8.</item>
+               <item>Le Trompeur puny 8. tragi-Comedie.</item>
+               <item>Les deux pucelles tragi-Comedie 12.</item>
+               <item>La Bourgeoise ou le promenade de S. Cloud 8.</item>
+               <item>La Doristee tragi-Comedie 8.</item>
+               <item>L'Hospital des fols tragi-Comedie 12.</item>
+               <item>Antigone Tragedie 12.</item>
+               <item>Laure persecutee tragi-Comedie 12.</item>
+               <item>La veritable Coriolan 12.</item>
+            </list>
+            <trailer>FIN.</trailer>
+            <pb facs="tcp:27863:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
